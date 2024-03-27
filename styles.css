@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+	background-color: yellow;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nota {
+    border: 1px solid #ccc;
+	background-color:#D7DF01;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 5px;
+}
+
+
+
